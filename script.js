@@ -1,4 +1,4 @@
-var noise = new Audio("sound.mp3");
+var noise = new Audio("alarm.mp3");
 function playNoise {
     noise.play();
 }
